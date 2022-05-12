@@ -6,7 +6,16 @@ namespace Kalitim
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            // Kisi sınıfından bir örnek alalım
+
+            Kisi ali = new Kisi();
+            Personel ayse = new Personel();
+            Personel fatma = new Personel("Fatma", "Kaya");
+            Console.WriteLine("Asye Maas:" + ayse.Maas);
+            SatisMuduru veli = new SatisMuduru();
+
+            Console.WriteLine("Satis Muduru" + veli.Maas);
+            
         }
     }
 }
