@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Kalitim.InsanKaynaklari" Collapsed="true">
+    <Position X="3.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQgAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>InsanKaynaklari.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kalitim.ITPersonel" Collapsed="true">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIIAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAEAAAAAAA=</HashCode>
+      <FileName>ITPersonel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kalitim.Kisi" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAACAAAAAAEAAAAAACAAAAAAEACAAAACAAAAA=</HashCode>
+      <FileName>Kisi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kalitim.Muhasebe" Collapsed="true">
+    <Position X="3.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAAABAAAAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Muhasebe.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Kalitim.Personel" Collapsed="true">
+    <Position X="1.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAEAA=</HashCode>
+      <FileName>Personel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kalitim.SatisElemani" Collapsed="true">
+    <Position X="0.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAAAAAAwAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>SatisElemani.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kalitim.SatisMuduru" Collapsed="true">
+    <Position X="4.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAAAAAgAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SatisMuduru.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kalitim.Sekreter" Collapsed="true">
+    <Position X="6" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Sekreter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Kalitim.IMuhasebe" Collapsed="true">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAAABAAAAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IMuhasebe.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Kalitim.IPersonel">
+    <Position X="6" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IPersonel.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

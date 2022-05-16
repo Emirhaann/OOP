@@ -12,6 +12,8 @@ namespace Kalitim
             Personel ayse = new Personel();
             Personel fatma = new Personel("Fatma", "Kaya");
             Console.WriteLine("Asye Maas:" + ayse.Maas);
+
+            SatisElemani hasan = new SatisElemani();
             SatisMuduru veli = new SatisMuduru();
 
             Console.WriteLine("Satis Muduru" + veli.Maas);

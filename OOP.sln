@@ -3,7 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32328.378
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kalitim", "Kalitim\Kalitim.csproj", "{7A27AF39-2E04-4A97-AEB5-E76DB99D992B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kalitim", "Kalitim\Kalitim.csproj", "{7A27AF39-2E04-4A97-AEB5-E76DB99D992B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polimorfizm", "Polimorfizm\Polimorfizm.csproj", "{20AD913B-646B-48BC-AF99-FC1E12B54D9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Poliformizim2", "Poliformizim2\Poliformizim2.csproj", "{2EF749AC-46A6-46A9-A2CE-575B44326DFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstracts", "Abstracts\Abstracts.csproj", "{1FB6D0AE-6E02-44E7-90AC-5003F8591BEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceProjesi", "InterfaceProjesi\InterfaceProjesi.csproj", "{60AA1092-0E32-49FD-87DA-E06A5B7F5ADE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +23,22 @@ Global
 		{7A27AF39-2E04-4A97-AEB5-E76DB99D992B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7A27AF39-2E04-4A97-AEB5-E76DB99D992B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7A27AF39-2E04-4A97-AEB5-E76DB99D992B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20AD913B-646B-48BC-AF99-FC1E12B54D9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20AD913B-646B-48BC-AF99-FC1E12B54D9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20AD913B-646B-48BC-AF99-FC1E12B54D9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20AD913B-646B-48BC-AF99-FC1E12B54D9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EF749AC-46A6-46A9-A2CE-575B44326DFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EF749AC-46A6-46A9-A2CE-575B44326DFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EF749AC-46A6-46A9-A2CE-575B44326DFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EF749AC-46A6-46A9-A2CE-575B44326DFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FB6D0AE-6E02-44E7-90AC-5003F8591BEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FB6D0AE-6E02-44E7-90AC-5003F8591BEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FB6D0AE-6E02-44E7-90AC-5003F8591BEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FB6D0AE-6E02-44E7-90AC-5003F8591BEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60AA1092-0E32-49FD-87DA-E06A5B7F5ADE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60AA1092-0E32-49FD-87DA-E06A5B7F5ADE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60AA1092-0E32-49FD-87DA-E06A5B7F5ADE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60AA1092-0E32-49FD-87DA-E06A5B7F5ADE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

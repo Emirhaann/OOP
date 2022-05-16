@@ -23,6 +23,7 @@ namespace Kalitim
         public SatisMuduru()
         {
             Maas = Maas + 3000;
+            ArabasıVarmi = true;
         }
     }
 }
