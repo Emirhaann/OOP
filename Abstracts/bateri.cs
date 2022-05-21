@@ -11,6 +11,7 @@ namespace Abstracts
         public override string Cal()
         {
             return "Bateri Caldi";
+           
         }
          
     }
